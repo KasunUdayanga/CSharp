@@ -1,0 +1,16 @@
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\CAMPUS\semester 3\c#\08.02\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

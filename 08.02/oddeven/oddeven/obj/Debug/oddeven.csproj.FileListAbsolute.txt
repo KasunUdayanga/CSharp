@@ -1,0 +1,8 @@
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\bin\Debug\oddeven.exe.config
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\bin\Debug\oddeven.exe
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\bin\Debug\oddeven.pdb
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\obj\Debug\oddeven.csproj.AssemblyReference.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\obj\Debug\oddeven.csproj.SuggestedBindingRedirects.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\obj\Debug\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\obj\Debug\oddeven.exe
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\08.02\oddeven\oddeven\obj\Debug\oddeven.pdb

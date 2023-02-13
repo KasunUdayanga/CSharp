@@ -1,0 +1,8 @@
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+D:\CAMPUS\semester 3\c#\10.02\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

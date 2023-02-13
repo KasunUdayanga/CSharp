@@ -1,0 +1,16 @@
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\bin\Debug\MyApp1.exe.config
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\bin\Debug\MyApp1.exe
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\bin\Debug\MyApp1.pdb
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\obj\Debug\MyApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\obj\Debug\MyApp1.exe
+C:\Users\2019ICTS54\Desktop\2134\MyApp1\obj\Debug\MyApp1.pdb
+D:\CAMPUS\semester 3\c#\2134\MyApp1\bin\Debug\MyApp1.exe.config
+D:\CAMPUS\semester 3\c#\2134\MyApp1\bin\Debug\MyApp1.exe
+D:\CAMPUS\semester 3\c#\2134\MyApp1\bin\Debug\MyApp1.pdb
+D:\CAMPUS\semester 3\c#\2134\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\2134\MyApp1\obj\Debug\MyApp1.csproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\semester 3\c#\2134\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\2134\MyApp1\obj\Debug\MyApp1.exe
+D:\CAMPUS\semester 3\c#\2134\MyApp1\obj\Debug\MyApp1.pdb
