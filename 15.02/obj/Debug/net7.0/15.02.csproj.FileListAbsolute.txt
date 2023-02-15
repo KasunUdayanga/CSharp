@@ -1,0 +1,15 @@
+D:\CAMPUS\semester 3\c#\CSharp\15.02\bin\Debug\net7.0\15.02.exe
+D:\CAMPUS\semester 3\c#\CSharp\15.02\bin\Debug\net7.0\15.02.deps.json
+D:\CAMPUS\semester 3\c#\CSharp\15.02\bin\Debug\net7.0\15.02.runtimeconfig.json
+D:\CAMPUS\semester 3\c#\CSharp\15.02\bin\Debug\net7.0\15.02.dll
+D:\CAMPUS\semester 3\c#\CSharp\15.02\bin\Debug\net7.0\15.02.pdb
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.AssemblyInfoInputs.cache
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.AssemblyInfo.cs
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.dll
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\refint\15.02.dll
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.pdb
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\15.02.genruntimeconfig.cache
+D:\CAMPUS\semester 3\c#\CSharp\15.02\obj\Debug\net7.0\ref\15.02.dll
