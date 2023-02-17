@@ -47,14 +47,14 @@ namespace array
             Console.WriteLine();
             //way 2 for print the value in elements
             //for reachloop
-            string[] deptmnt = { "Bio-Science", "Physical-Science", "HRM", "PM", "Accounting", "marketing", "ICT" };
-            foreach(string value in deptmnt)
+            string[] department = { "Bio-Science", "Physical-Science", "HRM", "PM", "Accounting", "marketing", "ICT" };
+            foreach(string val in department)
             {
-                Console.WriteLine(value);
+                Console.WriteLine(val);
             }
 
 
-            Console.WriteLine();
+      
             //sort an array(String)
             string[] subject = { "Maths", "Science", "History", "Ict", "English", "Commerce","Art" };
             Array.Sort(subject);
@@ -70,7 +70,7 @@ namespace array
                 Console.WriteLine(i);
             }
             Console.WriteLine();
-            //arry methods
+            //array methods
             int[] arr = { 5, 8, 9, 25, 10 };
             Console.WriteLine("max: "+arr.Max());//return largest value
             Console.WriteLine("min: " + arr.Min());//return minimum value
