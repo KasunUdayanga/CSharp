@@ -12,11 +12,11 @@ namespace ConsoleApp8
         {
             char con;
 
-            int tot = 0;
+            int tot = 0, x = 0;
          
            
 
-            int x = 0;
+       
           
             do {
                 for (int i = 1; i <= 3; i++)
@@ -32,7 +32,7 @@ namespace ConsoleApp8
 
             }
                
-            while (con=='y'|| con=='n');
+            while (con=='y'|| con=='Y');
 
             Console.WriteLine("thank you");
         }

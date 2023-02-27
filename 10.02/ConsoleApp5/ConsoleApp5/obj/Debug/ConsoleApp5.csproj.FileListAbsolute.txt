@@ -6,3 +6,11 @@ C:\Users\2019ICTS54\Desktop\3rd sem\2134\10.02\ConsoleApp5\ConsoleApp5\obj\Debug
 C:\Users\2019ICTS54\Desktop\3rd sem\2134\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\2019ICTS54\Desktop\3rd sem\2134\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\2019ICTS54\Desktop\3rd sem\2134\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\CAMPUS\semester 3\c#\CSharp\10.02\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

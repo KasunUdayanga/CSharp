@@ -1,0 +1,2 @@
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\27.02\ConsoleApp8\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\27.02\ConsoleApp8\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
