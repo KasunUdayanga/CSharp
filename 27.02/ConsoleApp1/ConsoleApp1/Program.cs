@@ -11,9 +11,8 @@ namespace ConsoleApp1
         string n ="kas";
         static void Main(string[] args)
         {
-            Program program = new Program();
-            Console.WriteLine(program.n);
-            mobail ob = new mobail(20);
+           
+            mobile ob = new mobile(20);
             Console.WriteLine(ob.band);
 
         }

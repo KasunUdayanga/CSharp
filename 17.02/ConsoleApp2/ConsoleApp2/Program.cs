@@ -25,12 +25,7 @@ namespace ConsoleApp2
             }
          
             Console.WriteLine("*************************************");
-           /* Array.Sort(num);
-            foreach (int i in num)
-            {
-                Console.WriteLine(num[i]);
-            }
-            Console.WriteLine("*************************************");*/
+          
         }
     }
 }

@@ -1,0 +1,8 @@
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\CAMPUS\semester 3\c#\CSharp\27.02\ConsoleApp9\obj\Debug\ConsoleApp9.pdb

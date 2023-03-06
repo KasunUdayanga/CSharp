@@ -1,0 +1,12 @@
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\01.03\ConsoleApp1\new\bin\Debug\@new.dll
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\01.03\ConsoleApp1\new\bin\Debug\@new.pdb
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\01.03\ConsoleApp1\new\obj\Debug\new.csproj.AssemblyReference.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\01.03\ConsoleApp1\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\01.03\ConsoleApp1\new\obj\Debug\@new.dll
+C:\Users\2019ICTS54\Desktop\3rd sem\2134\01.03\ConsoleApp1\new\obj\Debug\@new.pdb
+D:\CAMPUS\semester 3\c#\CSharp\01.03\ConsoleApp1\new\bin\Debug\@new.dll
+D:\CAMPUS\semester 3\c#\CSharp\01.03\ConsoleApp1\new\bin\Debug\@new.pdb
+D:\CAMPUS\semester 3\c#\CSharp\01.03\ConsoleApp1\new\obj\Debug\new.csproj.AssemblyReference.cache
+D:\CAMPUS\semester 3\c#\CSharp\01.03\ConsoleApp1\new\obj\Debug\new.csproj.CoreCompileInputs.cache
+D:\CAMPUS\semester 3\c#\CSharp\01.03\ConsoleApp1\new\obj\Debug\@new.dll
+D:\CAMPUS\semester 3\c#\CSharp\01.03\ConsoleApp1\new\obj\Debug\@new.pdb
